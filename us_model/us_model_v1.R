@@ -6,5 +6,5 @@
 
 install.packages("vars")
 library("vars")
-us_model=read.csv('/Users/jcreem/Desktop/Economics/VAR/us_model/us_model.csv')
+us_model=read.csv('us_model.csv')
 summary(us_model)
